@@ -1,0 +1,28 @@
+---
+title: "My website"
+author: "Katherine Robsky"
+date: "9/1/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+
+#install.packages("blogdown")
+library(blogdown)
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# About me
+I am a postdoctoral fellow in the Department of Epidemiology at JHSPH. My research aims to improve the diagnostic cascade (detection, linkage to care, and treatment completion) for patients with tuberculosis. I completed my PhD in 2020 (advisor: David Dowdy) and am currently on a F32 training grant with multi-institutional mentorship (JHSPH, JH SOM, University of Michigan, and University of Washington). My F32 focuses on spatial analysis and transmission inference methods, and I am in the process of shifting to using R as my main programming language (as a long-time Stata user) so that I can learn the commonly used R packages for this kind of analysis.
+
+Before coming to Hopkins, I worked as an epidemiologist for the U.S. Centers for Disease Control, California Department of Public Health, and a non-profit organization called Global Health Access Program. I have field experience in Thailand, Namibia, and Uganda.
+
+# Some fun facts
+- I have a ten year old cat Charlie. Last year he won the pet talent contest at JHSPH!
+- I started learning French on Duolingo out of pandemic lockdown boredom - my streak is almost a year long! I studied French in high school a looong time ago but didn't really stick with it.
+- I'm really into exercise, and spend a lot of my time doing CrossFit at Push511 Fitness in Baltimore. I'm also certified to coach CrossFit and hope to help bring fitness to those who may not normally have access due to cost, discrimination, and stigma,
+- I love reading but it's hard to find the time! I'm currently reading Sing Unburied Sing by Jesmyn Ward
+- Because of my work in global health, I have friends all over the world! I met two of my best friends while I was working in Namibia, and we've had monthly video chats every month since I moved to Baltimore 5 years ago. We were doing this before COVID made it a common way to stay in touch! 
+
+# webpage
+Here's a link to the video of Charlie winning the talent contest: https://youtu.be/ljueESWhPbc
