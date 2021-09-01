@@ -5,13 +5,6 @@ date: "9/1/2021"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-
-#install.packages("blogdown")
-library(blogdown)
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 # About me
 I am a postdoctoral fellow in the Department of Epidemiology at JHSPH. My research aims to improve the diagnostic cascade (detection, linkage to care, and treatment completion) for patients with tuberculosis. I completed my PhD in 2020 (advisor: David Dowdy) and am currently on a F32 training grant with multi-institutional mentorship (JHSPH, JH SOM, University of Michigan, and University of Washington). My F32 focuses on spatial analysis and transmission inference methods, and I am in the process of shifting to using R as my main programming language (as a long-time Stata user) so that I can learn the commonly used R packages for this kind of analysis.
 
